@@ -1,2 +1,11 @@
 # random machine learning and deep learning projects
 Projects related to random topics in Machine Learning and Deep Learning
+
+## Creating python environment and installing packages
+Assuming you have python and pip installed
+
+1. Install virtual environment -> `pip3 install virtualenv`
+2. Create the virtual env -> `python3 -m virtualenv mlearning`
+3. Activate the virutal env -> `source mlearning/bin/activate`
+4. Install all the packages -> `pip3 install -r requirements.txt`
+5. Run jupyterlab -> `jupyter lab`
