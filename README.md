@@ -16,3 +16,8 @@ Assuming you have python and pip installed
 2. Activate the environment: `conda activate mlearning`
 3. Install all libraries through pip: `pip install -r requirements.txt`
 4. Create new ipython kernel: `ipython kernel install --user --name mlearning`
+
+### Uninstall & Update the package if necessary
+- Check which package needs update -> `pip-review` [pip-review GitHub link](https://github.com/jgonggrijp/pip-review)
+- If uninstall needed -> `pip/pip3 uninstall <packagename>`
+- If update is needed -> `pip/pip3 install <packagename> -U`
