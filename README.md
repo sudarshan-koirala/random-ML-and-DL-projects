@@ -9,3 +9,10 @@ Assuming you have python and pip installed
 3. Activate the virutal env -> `source mlearning/bin/activate`
 4. Install all the packages -> `pip3 install -r requirements.txt`
 5. Run jupyterlab -> `jupyter lab`
+
+### Creating custom conda environment 
+
+1. Create new environment: `conda create -n mlearning python=3.8`
+2. Activate the environment: `conda activate mlearning`
+3. Install all libraries through pip: `pip install -r requirements.txt`
+4. Create new ipython kernel: `ipython kernel install --user --name mlearning`
