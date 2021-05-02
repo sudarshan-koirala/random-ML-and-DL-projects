@@ -1,3 +1,5 @@
 jupyterlab
 watermark
 nb-black
+nltk
+spacy
