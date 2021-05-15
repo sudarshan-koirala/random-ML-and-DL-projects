@@ -3,3 +3,4 @@ watermark
 nb-black
 nltk
 spacy
+pip-review
