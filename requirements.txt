@@ -5,3 +5,4 @@ nltk
 spacy
 pip-review
 rich
+seaborn
