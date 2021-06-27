@@ -13,3 +13,12 @@ Create UIs for prototyping your machine learning model easily.
 [Gradio GitHub Link](https://github.com/gradio-app/gradio)
 
 [Gradio getting started Link](https://gradio.app/getting_started) 
+
+
+### Gingerit and Streamlit
+
+Gingerit is a Python wrapper for correcting spelling and grammar mistakes based on the context of complete sentences.
+[Gingerit GitHub Link](https://github.com/Azd325/gingerit)
+
+Streamlit is the fastest way to build data apps in Python
+[Streamlit getting started Link](https://github.com/streamlit/streamlit)
